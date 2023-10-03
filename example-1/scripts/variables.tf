@@ -1,5 +1,5 @@
 variable app_name {
-    default = "flixtube"
+    default = "flixtubeMDCH9"
 }
 variable location {
   default = "West US"
